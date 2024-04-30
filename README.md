@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julietteugoh
 - 👀 I’m interested in Food
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently learning frontend dev
 - 💞️ I’m looking to collaborate on sweet things
 - 📫 How to reach me +234 816 3995 929
 - My email is Julietteugoh@gmail.com
